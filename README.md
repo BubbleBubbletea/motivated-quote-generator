@@ -16,7 +16,7 @@ An interactive React-based web app that provides motivational quotes to help you
 ## 🛠️ How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/BubbleBubbletea/motivated-quote-generator.git
    cd your-repo-name
 2. **Install dependencies:**
    npm install
